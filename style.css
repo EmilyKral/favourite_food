@@ -1,0 +1,48 @@
+@media only screen and (max-width: 770px) {
+  .col-3 {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .col-6 {
+    width: 100%;
+    padding-bottom: 10px;
+    margin-top: -20px;
+  }
+
+  .col-5 {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #title {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .m-5 {
+    margin: 30px !important;
+  }
+  .remove {
+    display: none;
+  }
+}
+
+#hi {
+  background-color: #bdf5ff;
+}
+
+.step {
+  margin-right: 75%;
+  padding-top: -20%;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+div p {
+  margin: 10px;
+}
