@@ -52,3 +52,11 @@
 div p {
 	margin: 10px;
 }
+
+.row {
+	--bs-gutter-x: 0;
+}
+
+.photos {
+	max-width: 100% !important;
+}
